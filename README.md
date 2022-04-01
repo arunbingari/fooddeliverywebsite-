@@ -1,2 +1,2 @@
 # food delivery website 
-gym website for future ready talent project
+food delivery website for future ready talent project
